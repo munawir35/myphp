@@ -29,7 +29,7 @@
 <br>
 <br>
 <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. <div> Voluptatum modi illo similique doloribus quis nostrum! Laboriosam numquam maxime quas odio et voluptatibus perferendis sapiente dicta nobis similique. Sed, quam maxime.</div>
-</div>Lorem ipsum dolor, sit amet consectetur adipisicing elit.>Expedita ea quo quisquam earum totam pariatur rem rerum, praesentium minima labore reiciendis ullam facere nostrum vel veritatis minus illo fugiat ratione.
+</div>Lorem ipsum dolor, sit amet consectetur adipisicing elit.>Expedita ea quo quisquam earum totam pariatur rem rerum, praesentium minima labore reiciendis ullam facere nostrum vel veritatis minus illo.
 <img src="paris.jpg" alt="">
 </body>
 </html>
